@@ -1,4 +1,4 @@
-# AI Gym Trainer
+# Virtual Gym Trainer
 > *On-device, Real-time Body Pose Tracking*
 
 <br>
